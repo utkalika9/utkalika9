@@ -6,6 +6,10 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Keeping Things Real
 
+  ### Here are my projects
+  - [Basic Express app with CRUD operations](https://github.com/Utkalika9/ExpressApp1)
+  - [Basic Word and Letter](https://github.com/Utkalika9/reactProject)
+
 <!---
 Utkalika9/Utkalika9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
