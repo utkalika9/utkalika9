@@ -9,7 +9,8 @@
 
   ### Here are my projects
   - [Basic Express app with CRUD operations](https://github.com/Utkalika9/ExpressApp1)
-  - [Basic Word and Letter](https://github.com/Utkalika9/reactProject)
+  - [Basic Word and Letter](https://github.com/Utkalika9/reactProject/tree/main/word-letter-counter)
+  - [Basic Password Validator](https://github.com/Utkalika9/reactProject/tree/main/passwordvalidator)
 
 <!---
 Utkalika9/Utkalika9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
