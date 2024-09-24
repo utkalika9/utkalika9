@@ -11,6 +11,7 @@
   - [Basic Express app with CRUD operations](https://github.com/Utkalika9/ExpressApp1)
   - [Basic Word and Letter](https://github.com/Utkalika9/reactProject/tree/main/word-letter-counter)
   - [Basic Password Validator](https://github.com/Utkalika9/reactProject/tree/main/passwordvalidator)
+  - [Basic Lyrics Finder](https://github.com/Utkalika9/reactProject/tree/main/lyrics-finder)
 
 <!---
 Utkalika9/Utkalika9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
