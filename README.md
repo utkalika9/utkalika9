@@ -19,6 +19,7 @@
   - [Basic Password Validator](https://github.com/Utkalika9/reactProject/tree/main/passwordvalidator)
   - [Basic Lyrics Finder](https://github.com/Utkalika9/reactProject/tree/main/lyrics-finder)
   - [Basic axios lab](https://github.com/Utkalika9/reactProject/tree/main/axios-lab)
+  - [Basic Weather checker](https://github.com/Utkalika9/reactProject/tree/main/weather-checker)
 
 <!---
 Utkalika9/Utkalika9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
