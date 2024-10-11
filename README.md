@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @utkalika9
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning express mongodb and text
-- 💞️ I’m looking to collaborate on not sure yet.
 - 📫 How to reach me utkalika.na@gmail.com
 - ✨ my linkedin profile https://www.linkedin.com/in/utkalika9/
 - 😄 Pronouns: She/Her
